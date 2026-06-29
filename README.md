@@ -41,9 +41,6 @@ Cyber-Nexus-Landing-Page/
 2. Open the project folder.
 3. Double-click `index.html` or open it using Live Server in VS Code.
 
-## 📸 Screenshot
-
-(Add a screenshot of your landing page here after uploading.)
 
 ## 👩‍💻 Author
 
